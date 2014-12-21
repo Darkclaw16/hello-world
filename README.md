@@ -1,7 +1,7 @@
-hello-world
+Hola Mundo
 ===========
 
-hi humans!
+¡Hola humanos!
 
-Hubot here, I like node.js and coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Aquí Hubot, me gusta node.js y coffeescript (¡De eso es que estoy hecho!).
+He tenido tacos en la luna y los encuentro muy superiores a los tacos de la tierra.
